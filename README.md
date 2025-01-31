@@ -49,8 +49,8 @@ Open the index.html file in your browser to see the application in action.
 
 Technologies Used:
 HTML: For structuring the content.
-CSS: For styling the layout and making it responsive.
-JavaScript: For handling dynamic features such as currency selection, flag changes, and conversion logic.
+CSS: This is used to style the layout and make it responsive.
+JavaScript: This is used to handle dynamic features such as currency selection, flag changes, and conversion logic.
 API: A public API is used to fetch real-time currency exchange rates.
 Screenshot:
 
@@ -60,5 +60,4 @@ Create your feature branch (git checkout -b feature-name).
 Commit your changes (git commit -m 'Add new feature').
 Push to the branch (git push origin feature-name).
 Create a new Pull Request.
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+
